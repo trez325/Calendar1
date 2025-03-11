@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Events>
+  <Event>
+    <Sport>АВИАМОДЕЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2152160020022875</EventID>
+    <Title>КУБОК РОССИИ  - 3 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>05.07.2024</StartDate>
+    <EndDate>08.07.2024</EndDate>
+    <Location>, г. Казань</Location>
+    <Participants>50</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2166160020014273</EventID>
+    <Title>КУБОК РОССИИ 2 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>26.01.2024</StartDate>
+    <EndDate>28.01.2024</EndDate>
+    <Location>, Усады село</Location>
+    <Participants>80</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2166160019014267</EventID>
+    <Title>ЧЕМПИОНАТ РОССИИ 2 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>26.01.2024</StartDate>
+    <EndDate>28.01.2024</EndDate>
+    <Location>, Усады село</Location>
+    <Participants>80</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>24952166160019014269</EventID>
+    <Title>ЧЕМПИОНАТ РОССИИ 4 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>23.02.2024</StartDate>
+    <EndDate>25.02.2024</EndDate>
+    <Location>, г. Набережные Челны</Location>
+    <Participants>80</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2166160020014275</EventID>
+    <Title>КУБОК РОССИИ 4 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>23.02.2024</StartDate>
+    <EndDate>25.02.2024</EndDate>
+    <Location>, г. Набережные Челны</Location>
+    <Participants>80</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2166160019024587</EventID>
+    <Title>ЧЕМПИОНАТ РОССИИ 3 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>03.05.2024</StartDate>
+    <EndDate>05.05.2024</EndDate>
+    <Location>, Актаныш село</Location>
+    <Participants>133</Participants>
+  </Event>
+  <Event>
+    <Sport>АВТОМОБИЛЬНЫЙ СПОРТ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2166160019024582</EventID>
+    <Title>ЧЕМПИОНАТ РОССИИ 3 ЭТАП</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>03.05.2024</StartDate>
+    <EndDate>05.05.2024</EndDate>
+    <Location>, Актаныш село</Location>
+    <Participants>133</Participants>
+  </Event>
+  <Event>
+    <Sport>ШАШКИ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2089000024025650</EventID>
+    <Title>УЧЕБНО-ТРЕНИРОВОЧНОЕ МЕРОПРИЯТИЕ</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>16.04.2024</StartDate>
+    <EndDate>19.04.2024</EndDate>
+    <Location/>
+    <Participants>4330</Participants>
+  </Event>
+  <Event>
+    <Sport>ШАШКИ</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2089000012025651</EventID>
+    <Title>КУБОК МИРА (ЭТАП)</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>19.04.2024</StartDate>
+    <EndDate>26.04.2024</EndDate>
+    <Location/>
+    <Participants>4330</Participants>
+  </Event>
+  <Event>
+    <Sport>ЭСТЕТИЧЕСКАЯ ГИМНАСТИКА</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2058160021016540</EventID>
+    <Title>ВСЕРОССИЙСКИЕ СОРЕВНОВАНИЯ "ЭЛЕГИЯ"</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>08.11.2024</StartDate>
+    <EndDate>10.11.2024</EndDate>
+    <Location>, г. Казань</Location>
+    <Participants>700</Participants>
+  </Event>
+  <Event>
+    <Sport>ЭСТЕТИЧЕСКАЯ ГИМНАСТИКА</Sport>
+    <Composition>Молодежный (резервный) состав</Composition>
+    <EventID>2058160021016531</EventID>
+    <Title>ВСЕРОССИЙСКИЕ СОРЕВНОВАНИЯ "НАДЕЖДЫ РОССИИ"</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>14.02.2024</StartDate>
+    <EndDate>16.02.2024</EndDate>
+    <Location>, г. Казань</Location>
+    <Participants>450</Participants>
+  </Event>
+  <Event>
+    <Sport>ЭСТЕТИЧЕСКАЯ ГИМНАСТИКА</Sport>
+    <Composition>Молодежный (резервный) состав</Composition>
+    <EventID>2058160021016532</EventID>
+    <Title>ВСЕРОССИЙСКИЕ СОРЕВНОВАНИЯ "НАДЕЖДЫ РОССИИ"</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>16.02.2024</StartDate>
+    <EndDate>18.02.2024</EndDate>
+    <Location>, г. Казань</Location>
+    <Participants>250</Participants>
+  </Event>
+  <Event>
+    <Sport>Комплексные мероприятия</Sport>
+    <Composition>Основной состав</Composition>
+    <EventID>2000160016016904</EventID>
+    <Title>МЕЖДУНАРОДНЫЕ СОРЕВНОВАНИЯ "ИГРЫ БУДУЩЕГО"</Title>
+    <Description>женщины, мужчины от 14 лет и старше</Description>
+    <StartDate>15.02.2024</StartDate>
+    <EndDate>04.03.2024</EndDate>
+    <Location>из</Location>
+    <Participants>2495</Participants>
+  </Event>
+</Events>
